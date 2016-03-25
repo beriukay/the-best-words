@@ -6,4 +6,4 @@ This has led many to furiously debate: what exactly are "The Best Words"?
 
 Now, thanks to the power of regular expressions, and a few reasonable assumptions, we have that answer.
 
-*Citation: https://youtu.be/7UIE_MRAhEA?t=49s
+*Citation: https://youtu.be/7UIE_MRAhEA?t=50s
