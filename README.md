@@ -1,4 +1,4 @@
-# the-best-words
+# The Best Words
 To help everybody know words, and have the best words.
 
 Republican frontrunner Donald Trump once said*: "I went to an Ivy League school. I'm very highly educated. I know words, I have the best words, but there's no better word than 'stupid'."
